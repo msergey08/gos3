@@ -1,6 +1,6 @@
 # gos3 : Simple no frills AWS S3 Library using REST with V4 Signing
 
-## Overview [![GoDoc](https://godoc.org/github.com/animber-coder/gos3?status.svg)](https://godoc.org/github.com/animber-coder/gos3) [![Go Report Card](https://goreportcard.com/badge/github.com/animber-coder/gos3)](https://goreportcard.com/report/github.com/animber-coder/gos3) [![GoCover](https://gocover.io/_badge/github.com/animber-coder/gos3)](https://gocover.io/_badge/github.com/animber-coder/gos3) [![Zerodha Tech](https://zerodha.tech/static/images/github-badge.svg)](https://zerodha.tech) 
+## Overview [![GoDoc](https://godoc.org/github.com/animber-coder/gos3?status.svg)](https://godoc.org/github.com/animber-coder/gos3) [![Go Report Card](https://goreportcard.com/badge/github.com/animber-coder/gos3)](https://goreportcard.com/report/github.com/animber-coder/gos3) 
 
 GoS3 is a golang library for uploading and deleting objects 
 on S3 buckets using REST API calls or Presigned URLs signed 
@@ -77,9 +77,6 @@ You are more than welcome to contribute to this project. Fork and make
 a Pull Request, or create an Issue if you see any problem or want to
 propose a feature.
 
-## Author
-
-Rohan Verma <hello@rohanverma.net>
 
 ## License
 
